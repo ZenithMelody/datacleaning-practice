@@ -36,7 +36,7 @@ git clone [https://github.com/ZenithMelody/datacleaning-practice.git]
 ```
 1. **Navigate to directory**
 ```bash
-cd data-cleaning-toolkit
+cd datacleaning-practice
 ```
 3. **Run script**
 ```bash
