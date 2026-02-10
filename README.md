@@ -32,7 +32,7 @@ pip install pandas numpy
 ```
 1. **Clone the repo:**
 ```bash
-pip install pandas numpy
+git clone [https://github.com/ZenithMelody/datacleaning-practice.git]
 ```
 1. **Navigate to directory**
 ```bash
